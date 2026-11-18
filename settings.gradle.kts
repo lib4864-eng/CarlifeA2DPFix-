@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "CarlifeA2DPFix"
+rootProject.name = "CarLifeA2DPFix"
 include(":app")
