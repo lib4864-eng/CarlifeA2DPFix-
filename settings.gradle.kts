@@ -10,7 +10,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url = uri("https://api.xposed.info/") }
     }
 }
-rootProject.name = "CarLifeA2DPFix"
+
+rootProject.name = "CarLifeAudioRoute"
 include(":app")
