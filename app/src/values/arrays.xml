@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>com.baidu.carlife</item>
+        <item>com.baidu.carlifeplus</item>
+        <item>com.baidu.carlife.samsung</item>
+    </string-array>
+</resources>
